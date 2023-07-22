@@ -3,6 +3,7 @@
   "rules": {
     "camelcase": "off",
     "no-redeclare": "off",
-    "@typescript-eslint/camelcase": "off"
+    "@typescript-eslint/camelcase": "off",
+    "no-undef": "off"
   }
 }
